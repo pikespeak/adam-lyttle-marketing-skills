@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adam Lyttle Marketing"
+  short_description: "Solo app strategy and launch playbook"
+  default_prompt: "Use $adam-lyttle-marketing to plan a lean solo app strategy from idea validation through launch."
