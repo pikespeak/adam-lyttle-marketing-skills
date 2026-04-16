@@ -2,8 +2,6 @@
 
 Unofficial Codex and Claude/Opus skills that distill Adam Lyttle's solo app strategy into reusable agent instructions.
 
-Public repo description: Unofficial Codex and Claude/Opus skills that turn Adam Lyttle's solo app playbook into reusable AI guidance for idea validation, lean building, ASO, launch, and word-of-mouth growth.
-
 Important: we are not Adam Lyttle, we are not affiliated with Adam Lyttle, and this is not an official Adam Lyttle project. We are simply big fans of his approach to building, validating, launching, and marketing solo apps.
 
 ## What This Contains
